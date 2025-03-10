@@ -1,0 +1,6 @@
+store_id,timestamp_utc,status
+1,2023-01-01 08:00:00,active
+1,2023-01-01 20:00:00,inactive
+2,2023-01-01 09:00:00,active
+2,2023-01-01 21:00:00,inactive
+3,2023-01-01 10:00:00,active
