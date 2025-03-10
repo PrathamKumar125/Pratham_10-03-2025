@@ -86,14 +86,6 @@ The system uses three tables:
    curl -o report.csv http://localhost:8000/reports/b7bbf2d5-e481-42bb-824c-0f39797d0e6d.csv
    ```
 
-## Testing
-
-Run the included test script:
-```
-python test_api.py
-```
-
-This will test the trigger_report and get_report endpoints and verify the workflow.
 
 ## Future Improvements
 
